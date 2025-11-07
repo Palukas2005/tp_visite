@@ -1,0 +1,58 @@
+main{
+    height: 55mm;
+    width :85mm;
+    padding: 10px 15px;
+    background-color: aqua;
+    border: 4px solid green;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    margin-bottom: 0px;
+}
+
+/*
+font-size : ;
+*/
+.textsize{
+    font-size: 1.2rem;
+}
+.sizepicture{
+    width: 10mm;
+    height: 12mm;
+    border-radius: 15%;
+    box-shadow: 0 0 20px black;
+}
+header h1{
+    margin: 0px;
+    font-size: 1em;
+}
+.Contacts{
+    margin-top: ;
+}
+section {
+    margin-top: 0px;
+}
+h2 {
+    font-size: 0.9em;
+    margin: 4px 0;
+    margin-bottom: 4;
+}
+li {
+    font-size: 1em;
+    line-height: 1;
+    margin: 8px;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+}
